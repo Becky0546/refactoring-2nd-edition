@@ -5,7 +5,7 @@
   "main": "main.js",
   "type": "module",
   "scripts": {
-    "start": "node --experimental-json-modules main.mjs"
+    "start": "nodemon --experimental-json-modules main.mjs"
   },
   "author": "Martin Fowler",
   "license": "ISC"
